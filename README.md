@@ -18,3 +18,11 @@ yarn
 ```sh
 yarn start
 ```
+
+Após executar o servidor, abra duas abas no navegar:
+
+![Abas do browser abertas](./img/abas_browser.png)
+
+O resultado:
+
+![Resultado](./img/abas_browser_resultado.png)
